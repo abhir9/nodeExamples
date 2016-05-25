@@ -1,0 +1,16 @@
+{
+  "name": "abhi-rest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts":{"start": "node ./start"},
+  "engines": {
+    "node": "~0.10.13",
+    "npm": "~1.3.2"
+  },
+  "dependencies": {
+    "express": "*",
+	"mongoose":"*",
+	"body-parser":"*",
+  "morgan":"*"
+  }
+}
